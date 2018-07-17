@@ -1,4 +1,4 @@
-# bootcloud token
+# EUB Chain Smart Contract 
 
 HOW TO RUN TESTS
 
